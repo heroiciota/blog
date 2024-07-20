@@ -1,0 +1,8 @@
+[submodule "iotablog/publuc"]
+	path = iotablog/publuc
+	url = https://github.com/heroiciota/iota.github.io.git
+	branch = main
+[submodule "iotablog/blog"]
+	path = iotablog/blog
+	url = https://github.com/heroiciota/iota.github.io.git
+	branch = main
