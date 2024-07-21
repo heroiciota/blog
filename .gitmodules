@@ -6,3 +6,10 @@
 	path = iotablog/blog
 	url = https://github.com/heroiciota/iota.github.io.git
 	branch = main
+[submodule "iotablog/public"]
+	path = iotablog/public
+	url = https://github.com/heroiciota/iota.github.io.git
+[submodule "iotablog/mm"]
+	path = iotablog/mm
+	url = https://github.com/heroiciota/heroiciota.github.io.git
+	branch = main
