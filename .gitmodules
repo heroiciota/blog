@@ -8,7 +8,7 @@
 	branch = main
 [submodule "iotablog/public"]
 	path = iotablog/public
-	url = https://github.com/heroiciota/iota.github.io.git
+	url = https://github.com/heroiciota/heroiciota.github.io
 [submodule "iotablog/mm"]
 	path = iotablog/mm
 	url = https://github.com/heroiciota/heroiciota.github.io.git
